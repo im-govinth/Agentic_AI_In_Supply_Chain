@@ -1,0 +1,4 @@
+supplier,cost,delivery_time,reliability
+SupplierA,50,5,0.9
+SupplierB,55,3,3
+SupplierC,48,7,0.8
